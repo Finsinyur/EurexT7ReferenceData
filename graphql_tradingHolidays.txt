@@ -1,0 +1,8 @@
+query {
+Holidays(filter: { Product: { eq: "%s"} }) {
+date
+data {
+  Product,
+  Holiday,
+  ExchangeHoliday
+}}}

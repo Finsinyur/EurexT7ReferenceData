@@ -1,0 +1,10 @@
+query {
+ProductInfos(filter: { Name: { contains: "%s" } }) {
+date
+data {
+	Product,
+	Name,
+	ProductISIN,
+	ProductLine,
+  ProductType
+}}}
