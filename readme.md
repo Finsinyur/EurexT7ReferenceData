@@ -6,4 +6,5 @@ GraphQL is a front end API which can be accessed via a Google Chrome Extension. 
 
 Beyond showing how one can retrieve data via Python, this project also displays some of the interesting data available on this API. Some information explored here is the Basic Product Information and Trading Holidays. This can be further expanded to Trading Hours and other interesting product specifications.
 
-For more information of the API provided by Deutsche Boerse Group, please refer to https://console.developer.deutsche-boerse.com/.
+For more information on the API provided by Deutsche Boerse Group, please refer to https://console.developer.deutsche-boerse.com/.
+For more information on GraphQL, please refer to documentation here: https://graphql.org/learn/. 
