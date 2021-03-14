@@ -1,0 +1,15 @@
+,Product,StartContinuosTrading,EndOpeningAuction,EndContinuosTrading,EndClosingAuction,StartTES,EndTES,Timezone
+0,FESX,0 days 08:10:00,0 days 08:15:01,1 days 05:00:00,1 days 05:03:00,0 days 08:15:00,1 days 05:00:00,SGT
+1,FDAX,0 days 08:10:00,0 days 08:15:01,1 days 05:00:00,1 days 05:03:00,0 days 08:15:00,1 days 05:00:00,SGT
+2,FDXM,0 days 08:10:00,0 days 08:15:01,1 days 05:00:00,1 days 05:03:00,0 days 08:15:00,1 days 05:00:00,SGT
+3,FESB,0 days 08:10:00,0 days 08:15:01,1 days 05:00:00,1 days 05:03:00,0 days 08:15:00,1 days 05:00:00,SGT
+4,FXXP,0 days 08:10:00,0 days 08:15:01,1 days 05:00:00,1 days 05:03:00,0 days 08:15:00,1 days 05:00:00,SGT
+5,FVS,0 days 08:10:00,0 days 08:15:01,1 days 05:00:00,1 days 05:03:00,0 days 08:15:00,1 days 05:00:00,SGT
+6,FGBL,0 days 08:10:00,0 days 08:15:01,1 days 05:00:00,1 days 05:03:00,0 days 08:15:00,1 days 05:00:00,SGT
+7,FGBM,0 days 08:10:00,0 days 08:15:01,1 days 05:00:00,1 days 05:03:00,0 days 08:15:00,1 days 05:00:00,SGT
+8,FGBS,0 days 08:10:00,0 days 08:15:01,1 days 05:00:00,1 days 05:03:00,0 days 08:15:00,1 days 05:00:00,SGT
+9,FGBX,0 days 08:10:00,0 days 08:15:01,1 days 05:00:00,1 days 05:03:00,0 days 08:15:00,1 days 05:00:00,SGT
+10,FOAT,0 days 08:10:00,0 days 08:15:01,1 days 05:00:00,1 days 05:03:00,0 days 08:15:00,1 days 05:00:00,SGT
+11,FMK2,0 days 16:50:00,0 days 17:00:01,1 days 04:00:00,,0 days 17:00:00,1 days 04:00:00,SGT
+12,FBK2,0 days 16:50:00,0 days 17:00:01,1 days 04:00:00,,0 days 17:00:00,1 days 04:00:00,SGT
+13,OKS2,0 days 16:50:00,0 days 17:00:01,1 days 04:00:00,,0 days 17:00:00,1 days 04:00:00,SGT
