@@ -1,4 +1,6 @@
 This is a documentation on how to access Eurex T7 Reference data using Python.
+Please refer to the following blogpost for full instructions:
+https://medium.com/analytics-vidhya/get-eurex-trading-holidays-and-more-in-5-mins-using-python-and-graphql-c4fdec4f4417
 
 Eurex T7 Reference data is available via GraphQL API: https://console.developer.deutsche-boerse.com/apis/accesstot7-referencedata/1.1.0.
 
