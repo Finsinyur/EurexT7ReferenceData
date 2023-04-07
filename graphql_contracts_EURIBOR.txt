@@ -1,0 +1,12 @@
+query{
+  Contracts(filter: { 
+    Product: {eq: "FEU3"}
+  }){
+    date
+    data{
+      Product
+      Contract
+      PreviousDaySettlementPrice
+    }
+  }
+}
